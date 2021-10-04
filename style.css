@@ -1,0 +1,25 @@
+body {
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(41, 39, 39);
+    color: aliceblue;
+}
+p {
+    color: rgb(101, 183, 255);
+    font-size: 1.5rem;
+    border: 2px solid rgb(253, 74, 74);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    border: 1px dashed yellow;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
